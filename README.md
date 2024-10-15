@@ -1,4 +1,4 @@
-Template Laporan PA
+Template Proposal PA
 Departemen Teknik Elektro dan Informatika
 Sekolah Vokasi UGM
 Dikembangkan oleh Dr. Fahmizal, S.T., M.Sc. dan Tim
